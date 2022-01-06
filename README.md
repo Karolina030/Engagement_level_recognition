@@ -1,4 +1,4 @@
-# Engagement_level_recognition
+# Rozpoznawanie emocji i zaangażowania uczniów podczas e-learningu
 
 Program network_training.m odpowiada za trening sieci, natomiast train_extraction.m, test_extraction.m i validate_extraction.m za ekstrakcję ramek i jednostek AU. 
 
